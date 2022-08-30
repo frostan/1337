@@ -1,3 +1,0 @@
-print ("hello world");
-11235813
-frostan
